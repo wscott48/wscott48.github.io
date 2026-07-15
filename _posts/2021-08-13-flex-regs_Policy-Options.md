@@ -7,9 +7,7 @@ tags:
   - climate policy
   - flexible regulations
 ---
-Written with Katya Rhodes (University of Victoria)
-
-======
+*Written with Katya Rhodes (University of Victoria) for Policy Options*
 
 Flexible regulations represent a relatively cost-effective, broadly supported and complementary tool to achieve deep emissions reductions.
 ------
