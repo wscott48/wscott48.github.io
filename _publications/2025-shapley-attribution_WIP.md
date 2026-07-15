@@ -1,7 +1,7 @@
 ---
 title: "Attributing Emission Reductions of Overlapping Climate Policies: A Shapley value approach"
 collection: publications
-category: working papers
+category: in progress
 permalink: /publication/2025-shapley-attribution
 excerpt: 'This work in progress applies a Shapley value approach to attribute emission reductions among overlapping climate policies.'
 date: 2025-10-17

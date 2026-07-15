@@ -2,7 +2,7 @@
 title: "PLCY 200: Introduction to Public Policy"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/plcy829
+permalink: /teaching/plcy200
 venue: "SFU School of Public Policy"
 date: 2025-09-01
 location: "Burnaby, BC, Canada"

@@ -29,7 +29,17 @@ Education
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% unless post.category == "reports" %}
+      {% include archive-single-cv.html %}
+    {% endunless %}
+  {% endfor %}</ul>
+
+Reports and Policy Briefs
+======
+  <ul>{% for post in site.publications reversed %}
+    {% if post.category == "reports" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
 
 Grants and Fellowships

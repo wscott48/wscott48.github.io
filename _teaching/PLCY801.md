@@ -41,12 +41,3 @@ Following successful completion of this course, students will be able to:
 4.	Write reasonably complex arguments applying economic theory to contemporaneous policy issues,
 5.	Communicate economic theories and their consequences for the public service; and,
 6.	Interpret and evaluate the economic aspects of policy reports that one might encounter in the policy world.
-
-
-
-
-Heading 2
-======
-
-Heading 3
-======

@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'
   working papers:
     title: 'Working Papers'
+  in progress:
+    title: 'Works in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
